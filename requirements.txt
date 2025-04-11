@@ -1,0 +1,14 @@
+ckmutil==1.2.0
+numpy==2.2.4
+pandas==2.2.3
+pylha==0.4
+python-dateutil==2.9.0.post0
+pytz==2025.2
+PyYAML==6.0.2
+rundec==0.6
+scipy==1.15.2
+six==1.17.0
+tzdata==2025.2
+voluptuous==0.15.2
+wcxf==1.6.2
+wilson==2.5.2
