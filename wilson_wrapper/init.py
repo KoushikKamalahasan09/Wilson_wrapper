@@ -1,0 +1,1 @@
+from .beta_wrapper import configure_patch
